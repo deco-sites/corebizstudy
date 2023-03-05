@@ -47,6 +47,7 @@ function BaseTags(props: Props) {
       <meta property="og:url" content={url} />
       <meta property="og:image" content={imageUrl} />
       <link rel="shortcut icon" href={faviconUrl} type="image/x-icon"></link>
+      <meta name="google-site-verification" content="ntgcnw9AZI46P0P8KRPBFlCBVZatFzP3GH9sr0o8sJQ" />
 
       <link
         rel="apple-touch-icon"
